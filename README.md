@@ -11,9 +11,27 @@ Me chamo David Silva Telles da Cruz, tenho 16 anos, sou natural de Pompéia, Sã
 
   ### 📊 Estatisticas
   
- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DavidTelles&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=413b6b&text_color=c9d1d9&bg_color=0d1117" alt="David Silva Telles github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTelles&layout=compact&hide_border=true&title_color=00bfbf&text_color=c6e5d9&bg_color=0d1117" />
+ <div align="center"> 
+  <br/>
+<picture>
+  <source 
+    srcset="https://github-readme-stats-gamma-lilac.vercel.app//api?username=DavidTelles&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=DavidTelles&show_icons=true&theme=default&bg_color=F6F8FA&hide_border=true" 
+    height="190" 
+    alt="GitHub Stats" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=DavidTelles&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=DavidTelles&layout=compact&theme=default&hide_border=true&bg_color=F6F8FA&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5"
+    height="190"
+    alt="Top Languages" />
+</picture>
 </div>
 
 ---
