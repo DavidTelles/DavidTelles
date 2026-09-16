@@ -3,7 +3,7 @@
 # 👨‍💻 David Telles
 
 
-**`Estudante de Densenvolvimento de sistemas`**
+**`Estudante de Desenvolvimento de sistemas`**
 
 Me chamo David Silva Telles da Cruz, tenho 16 anos, sou natural de Pompéia, São Paulo. Atualmente estou no Segundo ano do Ensino Médio, Cursando Desenvolvimento de Sistemas pelo Senai "Shunji Nishimura". Sou e sempre fui apaixonado por tecnologia desde pequeno e adoro conhecer pessoas que assim como eu, amam a tecnologia.
 
